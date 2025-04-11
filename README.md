@@ -7,7 +7,7 @@ I am an **ethical hacker & security analyst** passionate about **penetration tes
 ---
 
 ## 🏆 **Certifications** 📜  
-✔️ **ISC2 Certified in Cybersecurity (CC)** – 2025  
+✔️ **ISC2 Certified in Cybersecurity (CC)** – 2025  ## 🏅 (Isc2%20cirtification.pdf)
 ✔️ **Cybersecurity Analyst Job Simulation (Tata Forage)** – 2025  
 ✔️ **Ethical Hacking for Beginners** – 2022  
 ✔️ **Cyber Forensics (Sirintel & GMIT)** – 2019  
